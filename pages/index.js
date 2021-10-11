@@ -21,7 +21,7 @@ export default function Home() {
     <div className=" flex flex-col items-center justify-center min-h-screen h-screen">
       <Head>
         <title>Gooble</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="shortcut icon" href="/homer.png" />
       </Head>
 
       <header className="flex w-full p-5 justify-between text-sm text-gray-700">
